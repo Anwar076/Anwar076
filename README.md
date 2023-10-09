@@ -21,7 +21,7 @@ Hoi! Ik ben Anwar Agrich, een gepassioneerde Software Developer uit Breda. Welko
 
 ## Mijn GitHub Statistieken
 
-[![Anwar076 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwar076&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anwar076 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwar076&show_icons=true&theme=radical)](https://github.com/Anwar076/4Shop)
 
 
 Bedankt voor het langskomen! Ik kijk ernaar uit om samen te werken aan interessante projecten en de GitHub-community te verkennen.

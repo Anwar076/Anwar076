@@ -10,7 +10,7 @@ Hoi! Ik ben Anwar Agrich, een gepassioneerde Software Developer uit Breda. Welko
 
 ## Wat ik doe
 
-- 🔭 Momenteel werk ik aan: 4shop (Project van school)
+- 🔭 Momenteel werk ik aan: 4shop (laravel Project van school)
 - 🌟 Mijn expertisegebieden: Leerzaam, Behulpzaam, Leergierig. Talen: HTML, CSS, PHP, C#.
 - 🚀 Ik ben geïnteresseerd in: Om meer kennis te krijgen met Software Developer 
 

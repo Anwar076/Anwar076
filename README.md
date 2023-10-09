@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 Hoi! Ik ben Anwar Agrich, een gepassioneerde Software Developer uit Breda. Welkom op mijn GitHub-profiel.
 
 ## Over Mij

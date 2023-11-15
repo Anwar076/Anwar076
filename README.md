@@ -1,30 +1,31 @@
+<h1 align="center">Hallo daar! 👋 Ik ben Anwar Agrich</h1>
 
-Hoi! Ik ben Anwar Agrich, een gepassioneerde Software Developer uit Breda. Welkom op mijn GitHub-profiel.
+<p align="center">
+  <samp>Software Developer 🚀 | Breda, Nederland 🌍</samp>
+  <br>
+  <samp>Passie voor code 💻 | Leerzaam en leergierig 🌱</samp>
+</p>
 
-## Over Mij
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anwar076&show_icons=true&theme=radical" alt="Anwar076 GitHub Stats">
+</p>
 
-- 👩‍💻 Beroep: Software Developer
-- 🌍 Locatie: Breda
-- 🌱 Interesses: Programmeren
-- 📚 Opleiding: MBO 4 Software Devloper
+### Over Mij
 
-## Wat ik doe
+- 🎓 MBO 4 Software Developer
+- 🚀 Momenteel werk ik aan:
+  - [4Shop](https://github.com/Anwar076/4Shop): Een Laravel-project van school.
+  - [Ticketsysteem](https://github.com/Anwar076/ticketsystem): Een ticketsysteem project.
+  - [Open Dag Website](https://github.com/Anwar076/open-dag-website): Een website voor open dagen.
+  - [Storingapp](https://github.com/Anwar076/storingapp): Een applicatie voor storingen.
 
-- 🔭 Momenteel werk ik aan: 4shop (laravel Project van school)
-- 🌟 Mijn expertisegebieden: Leerzaam, Behulpzaam, Leergierig. Talen: HTML, CSS, PHP, C#.
-- 🚀 Ik ben geïnteresseerd in: Om meer kennis te krijgen met Software Developer 
+### Contact Me
 
-## Contact
+- 📫 E-mail: anwaragrich04@gmail.com
+- 💬 [LinkedIn](https://www.linkedin.com/in/anwar-agrich-612138250/)
 
-- 📫 Je kunt me bereiken via e-mail op: anwaragrich04@gmail.com
-- 💬 Laten we in contact komen op [LinkedIn](https://www.linkedin.com/in/anwar-agrich-612138250/)
+<p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" alt="Let's code!" width="300">
+</p>
 
-## Mijn GitHub Statistieken
-
-[![Anwar076 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwar076&show_icons=true&theme=radical)](https://github.com/Anwar076)
-[![Anwar076 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwar076)](https://github.com/Anwar076/github-readme-stats)
-
-
-
-Bedankt voor het langskomen! Ik kijk ernaar uit om samen te werken aan interessante projecten en de GitHub-community te verkennen.
-
+<p align="center">Bedankt voor het langskomen! Laten we samen aan interessante projecten werken en de GitHub-community verkennen. 😊</p>

@@ -1,32 +1,124 @@
-<h1 align="center">Hi 👋, I'm Anwar Agrich</h1>
-<h3 align="center">- 👨‍💻 Ik ben bezig met een opleiding tot Software Developer aan een school voor Software Development in Breda.    
-  - 📚 Momenteel bezig met mijn opleiding tot Software Developer op MBO-niveau. 
-  - 🌱 Ik ben gepassioneerd door programmeren en altijd op zoek naar nieuwe uitdagingen.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anwar076&label=Profile%20views&color=0e75b6&style=flat" alt="Anwar076" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Anwar%20Agrich&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Breda%2C%20NL&descAlignY=55&descSize=18" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anwar076" alt="Anwar076" /></a> </p>
+<br>
 
-- 🔭 I’m currently working on [ticketsysteem](https://github.com/Anwar076/ticketsystem)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Building+with+Laravel+%26+PHP;Learning+something+new+every+day;Clean+code+%7C+Clean+mind;MBO+Software+Development+Student)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Laravel**
+</div>
 
-- 📫 How to reach me **anwaragrich04@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anwar-agrich-612138250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anwar Agrich" height="30" width="40" /></a>
-</p>
+## 🎯 Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```diff
++ 🔨 Building: Full-stack applications & SaaS platforms
++ 🚀 Experience: 5+ years in software & web development
++ ⚡ Specializing: Laravel, PHP, APIs & modern web apps
++ 🌱 Growing: One commit at a time
+```
 
-<!-- Voor de taalstatistieken -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anwar076&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="Anwar076" /></p>
+---
 
+## 🛠️ What I Work With
 
-<!-- Voor de GitHub-statistieken -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwar076&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="Anwar076" /></p>
+<div align="center">
 
-<!-- Voor de GitHub streak-statistieken -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anwar076&background=000000&stroke=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="Anwar076" /></p>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,cs,python,git,vscode&theme=dark&perline=5" />
+
+</div>
+
+---
+
+## 📊 The Numbers
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Languages I Use Most
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar076&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" />
+
+</td>
+
+<td width="50%">
+
+### My GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anwar076&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github" />
+
+</td>
+</tr>
+</table>
+
+### Commit Consistency
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwar076&theme=react&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea&sideNums=c9d1d9&currStreakNum=667eea&dates=c9d1d9" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anwar076&theme=algolia&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔗 Find Me Online
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anwar-agrich-612138250/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+
+<a href="mailto:anwaragrich04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+
+<a href="https://github.com/Anwar076">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Anwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anwar076&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anwar076/Anwar076/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anwar076/Anwar076/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Anwar076/Anwar076/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
+</div>
